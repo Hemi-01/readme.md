@@ -11,7 +11,8 @@ It stores data in PROJECT-Table relation of COLLEGE-DB Database.
               - Assigned-To 
               - Assignment-Date
               - Deadline 
-- Primary key: Project-ID
+- Primary key:
+              - Project-ID
 
 # Description:
 
