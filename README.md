@@ -18,7 +18,7 @@ It stores data in PROJECT-TABLE Relation of COLLEGE-DB Database.
 
 # Description:
 
-To create a Project Management Form that stores data in "PROJECT-TABLE" of the COLLEGE-DB Database.
+To create a Project Management Form that stores data in "PROJECT-TABLE" of the "COLLEGE-DB" Database.
 
 # Benifites of using JsonPowerDB:
 
