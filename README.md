@@ -5,13 +5,15 @@
 Project Management Form
 It stores data in PROJECT-Table relation of COLLEGE-DB Database.
 
-- Input Fields: 
+- Input Fields:
+  
   - Project-ID
   - Project-Name
   - Assigned-To 
   - Assignment-Date
   - Deadline 
 - Primary key:
+  
   - Project-ID
 
 # Description:
