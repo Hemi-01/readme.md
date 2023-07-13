@@ -3,7 +3,7 @@
 # Title of the Project:
 
 Project Management Form
-It stores data in PROJECT-Table relation of COLLEGE-DB Database.
+It stores data in PROJECT-TABLE Relation of COLLEGE-DB Database.
 
 - Input Fields:
   
