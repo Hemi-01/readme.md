@@ -17,11 +17,11 @@ To create a Project Management Form that stores data in "PROJECT-TABLE" of the C
 
 # Benifites of using JsonPowerDB:
 
-Simplest way to retrieve data in a JSON format.
-Schema-free, Simple to use, Nimble and In-Memory database.
-It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
-It is low level (raw) form of data and is also human readable.
-It helps developers in faster coding, in-turn reduces development cost.
+1. Simplest way to retrieve data in a JSON format.
+2. Schema-free, Simple to use, Nimble and In-Memory database.
+3. It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+4. It is low level (raw) form of data and is also human readable.
+5. It helps developers in faster coding, in-turn reduces development cost.
 
 # Release History (release of your JsonPowerDB related code on Github)
 
